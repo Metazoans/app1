@@ -8,6 +8,6 @@ public class SampleController {
 	
 	@GetMapping("/sample")
 	public String main() {
-		return "sample";
+		return "sample local update";
 	}
 }
